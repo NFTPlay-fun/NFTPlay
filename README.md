@@ -6,9 +6,7 @@ Our ambition is to utilize hardware and software technologies to enrich the pres
 
 ## Deck：
 
-
-![nft](https://nftplay-static.oss-cn-hongkong.aliyuncs.com/temp/670892368739_1488_nft_1.png)
-![nft](https://nftplay-static.oss-cn-hongkong.aliyuncs.com/temp/670892368739_1488_nft_2.png)
+[NFTPlay：Show and Play NFTs in real life.pdf](https://nftplay-static.oss-cn-hongkong.aliyuncs.com/temp/NFTPlay%EF%BC%9AShow%20and%20Play%20NFTs%20in%20real%20life.pdf)
 
 ## Official Link:
 
