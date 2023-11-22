@@ -6,7 +6,6 @@ Our ambition is to utilize hardware and software technologies to enrich the pres
 
 ## Deck：
 
-![nft](https://github.com/NFTPlay-fun/NFTPlay/blob/main/670892368739_1488_nft_0.png)
 
 ![nft](https://nftplay-static.oss-cn-hongkong.aliyuncs.com/temp/670892368739_1488_nft_1.png)
 ![nft](https://nftplay-static.oss-cn-hongkong.aliyuncs.com/temp/670892368739_1488_nft_2.png)
